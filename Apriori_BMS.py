@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
+from tabulate import tabulate
 
 # we need to install mlxtend on anaconda prompt by typing 'pip install mlxtend'
 from mlxtend.frequent_patterns import apriori
@@ -20,6 +21,7 @@ def start_apriori(top_percentage):
             Items[item] = 1
 
     print(Items)
+    print(len(Items))
     top_items = top_x_per_products(Items,top_percentage)
     print(top_items)
     top_item_set = set(top_items.keys())
@@ -49,9 +51,11 @@ def start_apriori(top_percentage):
             return 1
 
     basket_sets = basket.applymap(encode_units)
-    print(basket_sets.head())
-    frequent_itemsets = apriori(basket_sets, min_support=0.01, use_colnames=True)
+    print("Basket Data Shape:"+str(basket_sets.shape))
+    frequent_itemsets = apriori(basket_sets, min_support=0.02, use_colnames=True)
     print(frequent_itemsets)
 
     rules = association_rules(frequent_itemsets, metric="lift", min_threshold=0.5)
     print(rules)
+    with open('table.txt', 'w') as f:
+        f.write(tabulate(rules))
