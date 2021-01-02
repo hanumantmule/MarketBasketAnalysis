@@ -30,7 +30,6 @@ def apriori_retail_dataset(TOP_PERCENTAGE):
 
     association_rules = apriori(Output, min_support=0.01, min_confidence=0.5, min_lift=2, min_length=1)
     association_results = list(association_rules)
-
     # print(association_results)
     print("\n=============== ASOCIATION RULES ======================")
 

@@ -1,14 +1,15 @@
 from Apriori_BMS import start_apriori
 from Apriori_Retail import apriori_retail_dataset
 from fp_growth_Retail import fp_growth_retail
+import time
 
-top_percentage = [40, 45, 50, 55, 60, 80, 100]
-# start_apriori(55)
+top_percentage=[100, 55]
 
-apriori_retail_dataset(40)
+# start = (time.time() * 1000)
 
+for p in top_percentage:
+    print("\n\n ---- Running for top "+ str(p)+" percent Items --------- ")
+    # fp_growth_retail(p,'Market_Basket_Optimisation',7501)
+    apriori_retail_dataset(p)
 
-# Choose Top 30 40 50 55 80
-# for percentage in top_percentage:
-#     print("\n\n\n ---- Running for top "+ str(percentage)+" percent Items --------- ")
-#     fp_growth_retail(percentage)
+# print(f'Time: {time.time()*1000 - start}')
