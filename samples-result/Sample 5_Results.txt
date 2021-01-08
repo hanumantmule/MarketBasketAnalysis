@@ -1,0 +1,9 @@
+-  ----------------------------------------  ----------------------------  ---------  --------
+0  frozenset({'eggs', 'frozen vegetables'})  frozenset({'mineral water'})  0.0106667  0.5
+1  frozenset({'french fries', 'spaghetti'})  frozenset({'mineral water'})  0.01       0.5
+2  frozenset({'protein bar'})                frozenset({'mineral water'})  0.01       0.535714
+-  ----------------------------------------  ----------------------------  ---------  ---------  ----------------------------------------  ----------------------------  ---------  --------
+0  frozenset({'eggs', 'frozen vegetables'})  frozenset({'mineral water'})  0.0109664  0.5
+1  frozenset({'french fries', 'spaghetti'})  frozenset({'mineral water'})  0.010281   0.5
+2  frozenset({'protein bar'})                frozenset({'mineral water'})  0.010281   0.535714
+-  ----------------------------------------  ----------------------------  ---------  --------

@@ -1,0 +1,25 @@
+--  ---------------------------------------------  ----------------------------  ---------  --------
+ 0  frozenset({'milk', 'olive oil'})               frozenset({'mineral water'})  0.01       0.555556
+ 1  frozenset({'frozen vegetables', 'olive oil'})  frozenset({'mineral water'})  0.01       0.75
+ 2  frozenset({'yams'})                            frozenset({'mineral water'})  0.0106667  0.5
+ 3  frozenset({'burgers', 'milk'})                 frozenset({'mineral water'})  0.012      0.580645
+ 4  frozenset({'milk', 'soup'})                    frozenset({'mineral water'})  0.0106667  0.516129
+ 5  frozenset({'spaghetti', 'soup'})               frozenset({'mineral water'})  0.01       0.681818
+ 6  frozenset({'milk', 'frozen vegetables'})       frozenset({'chocolate'})      0.012      0.529412
+ 7  frozenset({'fresh tuna'})                      frozenset({'mineral water'})  0.012      0.514286
+ 8  frozenset({'pasta'})                           frozenset({'shrimp'})         0.016      0.727273
+ 9  frozenset({'ham'})                             frozenset({'spaghetti'})      0.0133333  0.5
+10  frozenset({'ground beef', 'milk'})             frozenset({'mineral water'})  0.0133333  0.526316
+--  ---------------------------------------------  ----------------------------  ---------  ----------  ---------------------------------------------  ----------------------------  ---------  --------
+ 0  frozenset({'milk', 'olive oil'})               frozenset({'mineral water'})  0.0101902  0.555556
+ 1  frozenset({'frozen vegetables', 'olive oil'})  frozenset({'mineral water'})  0.0101902  0.75
+ 2  frozenset({'yams'})                            frozenset({'mineral water'})  0.0108696  0.5
+ 3  frozenset({'burgers', 'milk'})                 frozenset({'mineral water'})  0.0122283  0.580645
+ 4  frozenset({'milk', 'soup'})                    frozenset({'mineral water'})  0.0108696  0.516129
+ 5  frozenset({'spaghetti', 'soup'})               frozenset({'mineral water'})  0.0101902  0.681818
+ 6  frozenset({'milk', 'frozen vegetables'})       frozenset({'chocolate'})      0.0122283  0.529412
+ 7  frozenset({'fresh tuna'})                      frozenset({'mineral water'})  0.0122283  0.514286
+ 8  frozenset({'pasta'})                           frozenset({'shrimp'})         0.0163043  0.727273
+ 9  frozenset({'ham'})                             frozenset({'spaghetti'})      0.013587   0.5
+10  frozenset({'ground beef', 'milk'})             frozenset({'mineral water'})  0.013587   0.526316
+--  ---------------------------------------------  ----------------------------  ---------  --------
