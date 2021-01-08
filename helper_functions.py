@@ -25,4 +25,4 @@ def plot_graph(Items,algorithm,top_per):
     plt.xticks(list(keys), rotation=90)
     plt.legend(bbox_to_anchor=(1, 1), loc="best", borderaxespad=0.)
     # plt.savefig("../Graphs/"+algorithm+str(top_per)+".png")
-    # plt.show()
+    plt.show()
