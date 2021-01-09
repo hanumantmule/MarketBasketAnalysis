@@ -1,0 +1,28 @@
+	
+--  ------------------------------- 100 % --------------  ----------------------------  ---------  --------
+ 0  ({'milk', 'olive oil'})              ==>  ({'mineral water'})  0.01       0.555556
+ 1  ({'frozen vegetables', 'olive oil'}) ==>  ({'mineral water'})  0.01       0.75
+ 2  ({'yams'})                           ==>  ({'mineral water'})  0.0106667  0.5
+ 3  ({'burgers', 'milk'})                ==>  ({'mineral water'})  0.012      0.580645
+ 4  ({'milk', 'soup'})                   ==>  ({'mineral water'})  0.0106667  0.516129
+ 5  ({'spaghetti', 'soup'})              ==>  ({'mineral water'})  0.01       0.681818
+ 6  ({'milk', 'frozen vegetables'})      ==>  ({'chocolate'})      0.012      0.529412
+ 7  ({'fresh tuna'})                     ==>  ({'mineral water'})  0.012      0.514286
+ 8  ({'pasta'})                          ==>  ({'shrimp'})         0.016      0.727273
+ 9  ({'ham'})                            ==>  ({'spaghetti'})      0.0133333  0.5
+10  ({'ground beef', 'milk'})            ==>  ({'mineral water'})  0.0133333  0.526316
+
+--  -------------------------------- 55 %------------------------  ---------  ----------  ---------------------------------------------  ----------------------------  ---------  --------
+
+ 0  ({'milk', 'olive oil'})              ==>  ({'mineral water'})  0.0101902  0.555556
+ 1  ({'frozen vegetables', 'olive oil'}) ==>  ({'mineral water'})  0.0101902  0.75
+ 2  ({'yams'})                           ==>  ({'mineral water'})  0.0108696  0.5
+ 3  ({'burgers', 'milk'})                ==>  ({'mineral water'})  0.0122283  0.580645
+ 4  ({'milk', 'soup'})                   ==>  ({'mineral water'})  0.0108696  0.516129
+ 5  ({'spaghetti', 'soup'})              ==>  ({'mineral water'})  0.0101902  0.681818
+ 6  ({'milk', 'frozen vegetables'})      ==>  ({'chocolate'})      0.0122283  0.529412
+ 7  ({'fresh tuna'})                     ==>  ({'mineral water'})  0.0122283  0.514286
+ 8  ({'pasta'})                          ==>  ({'shrimp'})         0.0163043  0.727273
+ 9  ({'ham'})                            ==>  ({'spaghetti'})      0.013587   0.5
+10  ({'ground beef', 'milk'})            ==>  ({'mineral water'})  0.013587   0.526316
+--  ---------------------------------------- --------  ----------------------------  ---------  --------

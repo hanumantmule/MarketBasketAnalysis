@@ -1,0 +1,53 @@
+--  --------------------------------------- 100 %--------  ----------------------------  ---------  --------
+ 0  ({'chocolate', 'frozen vegetables'})    ==> ({'mineral water'})  0.0126667  0.542857
+ 1  ({'milk', 'frozen vegetables'})         ==> ({'mineral water'})  0.0146667  0.666667
+ 2  ({'milk', 'frozen vegetables'})         ==> ({'spaghetti'})      0.0113333  0.515152
+ 3  ({'ground beef', 'frozen vegetables'})  ==> ({'mineral water'})  0.01       0.714286
+ 4  ({'frozen vegetables', 'spaghetti'})    ==> ({'mineral water'})  0.0186667  0.54902
+ 5  ({'french fries', 'burgers'})           ==> ({'eggs'})           0.012      0.5
+ 6  ({'chocolate', 'burgers'})              ==> ({'spaghetti'})      0.012      0.6
+ 7  ({'chicken', 'spaghetti'})              ==> ({'mineral water'})  0.0106667  0.5
+ 8  ({'milk', 'spaghetti'})                 ==> ({'mineral water'})  0.0253333  0.558824
+ 9  ({'chocolate', 'milk'})                 ==> ({'mineral water'})  0.016      0.521739
+10  ({'tomatoes', 'milk'})                  ==> ({'spaghetti'})      0.0133333  0.571429
+11  ({'tomatoes', 'milk'})                  ==> ({'mineral water'})  0.0146667  0.628571
+12  ({'tomatoes', 'mineral water'})         ==> ({'spaghetti'})      0.0166667  0.520833
+13  ({'tomatoes', 'spaghetti'})             ==> ({'mineral water'})  0.0166667  0.510204
+14  ({'tomatoes', 'frozen vegetables'})     ==> ({'spaghetti'})      0.0106667  0.571429
+15  ({'shrimp', 'chocolate'})               ==> ({'mineral water'})  0.012      0.514286
+16  ({'shrimp', 'ground beef'})             ==> ({'spaghetti'})      0.0113333  0.73913
+17  ({'shrimp', 'frozen vegetables'})       ==> ({'spaghetti'})      0.0113333  0.515152
+18  ({'shrimp', 'frozen vegetables'})       ==> ({'mineral water'})  0.0113333  0.515152
+19  ({'shrimp', 'milk'})                    ==> ({'mineral water'})  0.0106667  0.615385
+20  ({'milk', 'ground beef'})               ==> ({'mineral water'})  0.0146667  0.647059
+21  ({'olive oil', 'spaghetti'})            ==> ({'mineral water'})  0.0126667  0.5
+22  ({'soup'})                              ==> ({'mineral water'})  0.024      0.514286
+23  ({'meatballs'})                         ==> ({'mineral water'})  0.0106667  0.5
+
+--  ----------------------------------------- 55 %------  ----------------------------  ---------  ----------  -----------------------------------------------  ----------------------------  ---------  --------
+ 
+ 0  ({'chocolate', 'frozen vegetables'})    ==> ({'mineral water'})  0.0129252  0.542857
+ 1  ({'milk', 'frozen vegetables'})         ==> ({'mineral water'})  0.014966   0.666667
+ 2  ({'milk', 'frozen vegetables'})         ==> ({'spaghetti'})      0.0115646  0.515152
+ 3  ({'ground beef', 'frozen vegetables'})  ==> ({'mineral water'})  0.0102041  0.714286
+ 4  ({'frozen vegetables', 'spaghetti'})    ==> ({'mineral water'})  0.0190476  0.54902
+ 5  ({'french fries', 'burgers'})           ==> ({'eggs'})           0.0122449  0.5
+ 6  ({'chocolate', 'burgers'})              ==> ({'spaghetti'})      0.0122449  0.6
+ 7  ({'chicken', 'spaghetti'})              ==> ({'mineral water'})  0.0108844  0.5
+ 8  ({'milk', 'spaghetti'})                 ==> ({'mineral water'})  0.0258503  0.558824
+ 9  ({'chocolate', 'milk'})                 ==> ({'mineral water'})  0.0163265  0.521739
+10  ({'tomatoes', 'milk'})                  ==> ({'spaghetti'})      0.0136054  0.571429
+11  ({'tomatoes', 'milk'})                  ==> ({'mineral water'})  0.014966   0.628571
+12  ({'tomatoes', 'mineral water'})         ==> ({'spaghetti'})      0.0170068  0.520833
+13  ({'tomatoes', 'spaghetti'})             ==> ({'mineral water'})  0.0170068  0.510204
+14  ({'tomatoes', 'frozen vegetables'})     ==> ({'spaghetti'})      0.0108844  0.571429
+15  ({'shrimp', 'chocolate'})               ==> ({'mineral water'})  0.0122449  0.514286
+16  ({'shrimp', 'ground beef'})             ==> ({'spaghetti'})      0.0115646  0.73913
+17  ({'shrimp', 'frozen vegetables'})       ==> ({'spaghetti'})      0.0115646  0.515152
+18  ({'shrimp', 'frozen vegetables'})       ==> ({'mineral water'})  0.0115646  0.515152
+19  ({'shrimp', 'milk'})                    ==> ({'mineral water'})  0.0108844  0.615385
+20  ({'milk', 'ground beef'})               ==> ({'mineral water'})  0.014966   0.647059
+21  ({'olive oil', 'spaghetti'})            ==> ({'mineral water'})  0.0129252  0.5
+22  ({'soup'})                              ==> ({'mineral water'})  0.0244898  0.514286
+23  ({'meatballs'})                         ==> ({'mineral water'})  0.0108844  0.5
+--  -----------------------------------------------  ----------------------------  ---------  --------

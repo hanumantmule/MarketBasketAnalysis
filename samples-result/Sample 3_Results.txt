@@ -1,0 +1,35 @@
+--  --------------------------------------- 100 % --------  ----------------------------  ---------  --------
+ 0  ({'olive oil', 'chocolate'})            ==> ({'mineral water'})  0.01       0.625
+ 1  ({'olive oil', 'ground beef'})          ==> ({'spaghetti'})      0.01       0.555556
+ 2  ({'eggs', 'chocolate'})                 ==> ({'mineral water'})  0.0173333  0.52
+ 3  ({'pancakes', 'ground beef'})           ==> ({'spaghetti'})      0.0113333  0.607143
+ 4  ({'pancakes', 'spaghetti'})             ==> ({'mineral water'})  0.0126667  0.5
+ 5  ({'frozen vegetables', 'ground beef'})  ==> ({'spaghetti'})      0.014      0.583333
+ 6  ({'ground beef', 'tomatoes'})           ==> ({'mineral water'})  0.01       0.5
+ 7  ({'pepper'})                            ==> ({'mineral water'})  0.0126667  0.5
+ 8  ({'mineral water', 'ground beef'})      ==> ({'spaghetti'})      0.0253333  0.520548
+ 9  ({'ground beef', 'milk'})               ==> ({'spaghetti'})      0.012      0.529412
+10  ({'eggs', 'ground beef'})               ==> ({'spaghetti'})      0.0173333  0.619048
+11  ({'chocolate', 'ground beef'})          ==> ({'mineral water'})  0.0113333  0.5
+12  ({'almonds'})                           ==> ({'mineral water'})  0.0106667  0.516129
+13  ({'mineral water', 'soup'})             ==> ({'milk'})           0.01       0.5
+14  ({'soup', 'milk'})                      ==> ({'mineral water'})  0.01       0.681818
+
+--  ---------------------------------------- 55 % -------  ----------------------------  ---------  ----------  -----------------------------------------------  ----------------------------  ---------  --------
+ 
+ 0  ({'olive oil', 'chocolate'})            ==> ({'mineral water'})  0.010142   0.625
+ 1  ({'olive oil', 'ground beef'})          ==> ({'spaghetti'})      0.010142   0.555556
+ 2  ({'eggs', 'chocolate'})                 ==> ({'mineral water'})  0.0175794  0.52
+ 3  ({'pancakes', 'ground beef'})           ==> ({'spaghetti'})      0.0114943  0.607143
+ 4  ({'pancakes', 'spaghetti'})             ==> ({'mineral water'})  0.0128465  0.5
+ 5  ({'frozen vegetables', 'ground beef'})  ==> ({'spaghetti'})      0.0141988  0.583333
+ 6  ({'ground beef', 'tomatoes'})           ==> ({'mineral water'})  0.010142   0.5
+ 7  ({'pepper'})                            ==> ({'mineral water'})  0.0128465  0.5
+ 8  ({'mineral water', 'ground beef'})      ==> ({'spaghetti'})      0.025693   0.520548
+ 9  ({'ground beef', 'milk'})               ==> ({'spaghetti'})      0.0121704  0.529412
+10  ({'eggs', 'ground beef'})               ==> ({'spaghetti'})      0.0175794  0.619048
+11  ({'chocolate', 'ground beef'})          ==> ({'mineral water'})  0.0114943  0.5
+12  ({'almonds'})                           ==> ({'mineral water'})  0.0108181  0.516129
+13  ({'mineral water', 'soup'})             ==> ({'milk'})           0.010142   0.5
+14  ({'soup', 'milk'})                      ==> ({'mineral water'})  0.010142   0.681818
+--  -----------------------------------------------  ----------------------------  ---------  --------
